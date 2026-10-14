@@ -1,0 +1,4 @@
+RELATÓRIO DE ANÁLISE
+Total: 4
+Válidos: 2
+Inválidos: 2
